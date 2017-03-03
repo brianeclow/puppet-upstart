@@ -1,6 +1,7 @@
 spec/fixtures/
 pkg/
 .bundle/
+.ruby-version
 
 # vim
 *.swp
